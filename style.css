@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    
+    margin: 0;
     font-family: outfit;
     background-color: rgb(182, 213, 255);
 }
